@@ -5,7 +5,7 @@ description = "Local files to database."
 authors = [
     {name = "Taeyong Jeon", email = "taeyongjeon24@gmail.com"},
 ]
-dependencies = ["pandas>=2.2.3"]
+dependencies = ["pandas>=2.2.3", "psycopg2-binary>=2.9.10", "pyarrow>=18.0.0", "fastparquet>=2024.5.0"]
 requires-python = ">=3.10"
 readme = "README.md"
 license = {text = "MIT"}
