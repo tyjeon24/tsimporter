@@ -1,6 +1,6 @@
 [project]
 name = "tsimporter"
-version = "0.1.0"
+version = "0.1.1"
 description = "Local files to database."
 authors = [
     {name = "Taeyong Jeon", email = "taeyongjeon24@gmail.com"},
