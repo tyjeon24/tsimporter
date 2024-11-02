@@ -8,6 +8,7 @@ authors = [
 dependencies = ["pandas>=2.2.3", "psycopg2-binary>=2.9.10", "pyarrow>=18.0.0", "fastparquet>=2024.5.0"]
 requires-python = ">=3.10"
 readme = "README.md"
+repository = "https://github.com/tyjeon24/tsimporter"
 license = {text = "MIT"}
 
 [build-system]
